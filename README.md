@@ -74,6 +74,13 @@ XGBoost significantly outperformed Random Forest and achieved:
 - MAE: 99.83
 - RMSE: 204.81
 
+- ## Final Results
+
+| Model | MAE | RMSE | R² Score |
+|--------|--------|--------|--------|
+| Random Forest | 322.57 | 618.56 | 0.349 |
+| XGBoost | 99.83 | 204.81 | 0.886 |
+
 The model successfully captured nonlinear relationships among operational steelmaking parameters and demonstrated strong predictive capability for SB_O2_CONS.
 
 ## Top Influencing Variables
@@ -88,6 +95,18 @@ The model successfully captured nonlinear relationships among operational steelm
 8. STATION_CODE_BOF2
 9. HM_TEMP
 10. MB_LIME
+
+## Business Impact
+
+The developed XGBoost model achieved an R² Score of 0.886, demonstrating strong predictive capability for oxygen consumption during LD1 steelmaking operations.
+
+Benefits include:
+
+- Improved process monitoring
+- Better oxygen consumption estimation
+- Reduced operator dependency
+- Support for data-driven steelmaking decisions
+- Potential cost and productivity improvements
 
 ## Technologies Used
 
