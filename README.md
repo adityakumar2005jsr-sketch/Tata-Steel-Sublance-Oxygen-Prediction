@@ -56,34 +56,6 @@ Target Variable:
 | RMSE | 204.81 |
 | R² Score | 0.886 |
 
-## Model Performance Visualization
-
-## Additional Analysis
-
-### Correlation Heatmap
-
-![Correlation Heatmap](correlation_heatmap.png)
-
-### Model Comparison
-
-![Model Comparison](model_comparison.png)
-
-### SHAP Feature Importance
-
-![SHAP Analysis](shap_summary.png)
-
-### Project Architecture
-
-![Architecture](architecture_diagram.png)
-
-### Actual vs Predicted Oxygen Consumption
-
-![Actual vs Predicted](actual_vs_predicted_SB_O2_CONS.png)
-
-### Feature Importance Analysis
-
-![Feature Importance](feature_importance_SB_O2_CONS.png)
-
 ## Model Performance Summary
 
 XGBoost significantly outperformed Random Forest and achieved:
@@ -91,6 +63,22 @@ XGBoost significantly outperformed Random Forest and achieved:
 - R² Score: 0.886
 - MAE: 99.83
 - RMSE: 204.81
+
+- ## Correlation Heatmap
+
+![Correlation Heatmap](correlation_heatmap.png)
+
+## Model Comparison
+
+![Model Comparison](model_comparison.png)
+
+## Actual vs Predicted Oxygen Consumption
+
+![Actual vs Predicted](actual_vs_predicted_SB_O2_CONS.png)
+
+## Feature Importance Analysis
+
+![Feature Importance](feature_importance_SB_O2_CONS.png)
 
 - ## Final Results
 
