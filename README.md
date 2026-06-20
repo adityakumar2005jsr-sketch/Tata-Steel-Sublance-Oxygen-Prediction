@@ -1,5 +1,9 @@
 # LD1 Sublance Secondary Blow Model
 
+## Internship Project at Tata Steel
+
+Machine Learning based predictive modeling of oxygen consumption and secondary blow process parameters in LD1 steelmaking operations using Random Forest and XGBoost.
+
 ## Business Problem
 
 In steelmaking operations, accurate prediction of oxygen consumption is critical for maintaining process stability, improving productivity, and ensuring product quality.
@@ -52,6 +56,16 @@ Target Variable:
 | RMSE | 204.81 |
 | R² Score | 0.886 |
 
+## Model Performance Summary
+
+XGBoost significantly outperformed Random Forest and achieved:
+
+- R² Score: 0.886
+- MAE: 99.83
+- RMSE: 204.81
+
+The model successfully captured nonlinear relationships among operational steelmaking parameters and demonstrated strong predictive capability for SB_O2_CONS.
+
 ## Top Influencing Variables
 
 1. EMB_C
@@ -74,11 +88,22 @@ Target Variable:
 - XGBoost
 - Matplotlib
 
+- ## Internship Details
+
+Organization: Tata Steel
+
+Department: LD1 Steelmaking Operations
+
+Role: Data Analyst Intern
+
+Project: LD1 Sublance Secondary Blow Model
+
 ## Author
 
 Aditya Kumar
 
-Former Data Analyst Intern at Tata Steel
+Former Data Analyst and ML Intern | Tata Steel
+B.Tech Information Technology, KIIT University
 
 LinkedIn:
 https://www.linkedin.com/in/aditya-kumar-404282375/
