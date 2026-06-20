@@ -58,6 +58,24 @@ Target Variable:
 
 ## Model Performance Visualization
 
+## Additional Analysis
+
+### Correlation Heatmap
+
+![Correlation Heatmap](correlation_heatmap.png)
+
+### Model Comparison
+
+![Model Comparison](model_comparison.png)
+
+### SHAP Feature Importance
+
+![SHAP Analysis](shap_summary.png)
+
+### Project Architecture
+
+![Architecture](architecture_diagram.png)
+
 ### Actual vs Predicted Oxygen Consumption
 
 ![Actual vs Predicted](actual_vs_predicted_SB_O2_CONS.png)
