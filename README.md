@@ -64,22 +64,6 @@ XGBoost significantly outperformed Random Forest and achieved:
 - MAE: 99.83
 - RMSE: 204.81
 
-- ## Correlation Heatmap
-
-![Correlation Heatmap](correlation_heatmap.png)
-
-## Model Comparison
-
-![Model Comparison](model_comparison.png)
-
-## Actual vs Predicted Oxygen Consumption
-
-![Actual vs Predicted](actual_vs_predicted_SB_O2_CONS.png)
-
-## Feature Importance Analysis
-
-![Feature Importance](feature_importance_SB_O2_CONS.png)
-
 - ## Final Results
 
 | Model | MAE | RMSE | R² Score |
